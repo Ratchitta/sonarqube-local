@@ -1,0 +1,1 @@
+docker run --rm -it -v `pwd`/apps/:/code -v `pwd`/dist/report:/report beevelop/sonarlint
